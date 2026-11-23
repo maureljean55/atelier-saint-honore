@@ -1,0 +1,701 @@
+client_id,boutique_principale,anciennete_mois,nb_achats_12m,panier_moyen_eur,retours,demandes_sav,carte_fidelite,canal_prefere,pays_residence,montant_prochain_achat_eur,est_revenu_6m,montant_total_eur
+CT80059,BT15,4,4,1468.0,0,0,aucune,en ligne,usa,725.0,1,5872.0
+CT80578,BT28,80,3,1235.0,1,1,argent,boutique,france,1479.0,1,3705.0
+CT80256,BT27,43,1,1814.0,0,2,or,boutique,france,2307.0,1,1814.0
+CT80098,BT16,1,1,1795.0,0,0,or,boutique,italie,1820.0,0,1795.0
+CT80362,BT31,51,3,2022.0,0,0,argent,boutique,chine,1201.0,1,6066.0
+CT80061,BT30,6,4,1984.0,0,0,argent,boutique,france,1870.0,0,7936.0
+CT80582,BT21,52,1,1267.0,3,0,aucune,boutique,italie,538.0,0,1267.0
+CT80244,BT16,38,3,1717.0,1,1,aucune,boutique,france,1536.0,0,5151.0
+CT80111,BT32,30,1,1357.0,0,0,aucune,mixte,corée,1499.0,0,1357.0
+CT80531,BT30,12,1,2291.0,1,2,argent,en ligne,france,1739.0,1,2291.0
+CT80695,BT13,22,5,1879.0,0,0,argent,mixte,france,1197.0,0,9395.0
+CT80251,BT21,71,5,3020.0,0,2,argent,boutique,chine,2127.0,1,15100.0
+CT80642,BT21,9,11,4002.0,2,0,aucune,boutique,suisse,2800.0,1,44022.0
+CT80159,BT12,55,4,1411.0,0,1,,boutique,eau,1123.0,1,5644.0
+CT80142,BT14,24,9,9637.0,1,1,or,mixte,eau,6408.0,1,86733.0
+CT80477,BT10,45,2,2174.0,0,0,argent,en ligne,chine,1608.0,1,4348.0
+CT80168,BT17,6,1,3079.0,0,0,argent,boutique,usa,1675.0,0,3079.0
+CT80204,BT24,32,4,2059.0,0,0,or,boutique,usa,2140.0,1,8236.0
+CT80452,BT32,17,2,3592.0,4,2,aucune,boutique,eau,2075.0,1,7184.0
+CT80307,BT22,15,1,1674.0,0,0,aucune,boutique,italie,1651.0,0,1674.0
+CT80610,BT28,16,6,7453.0,0,0,argent,boutique,eau,3601.0,0,44718.0
+CT80679,BT14,11,9,7056.0,2,1,or,en ligne,italie,5208.0,0,63504.0
+CT80053,BT24,28,2,2546.0,0,0,aucune,boutique,italie,1965.0,0,5092.0
+CT80013,BT24,23,6,2089.0,1,0,aucune,en ligne,eau,875.0,0,12534.0
+CT80153,BT20,84,1,1271.0,0,0,aucune,boutique,usa,837.0,1,1271.0
+CT80479,BT29,13,2,2688.0,0,0,argent,boutique,france,1823.0,1,5376.0
+CT80278,BT21,65,3,1878.0,0,1,or,boutique,france,2809.0,1,5634.0
+CT80420,BT30,15,7,3987.0,1,0,aucune,en ligne,france,2948.0,1,27909.0
+CT80455,BT11,23,2,2586.0,0,0,aucune,boutique,corée,2097.0,1,5172.0
+CT80318,BT28,16,3,856.0,0,0,aucune,boutique,france,658.0,0,2568.0
+CT80034,BT31,20,3,1499.0,0,1,aucune,boutique,chine,1453.0,0,4497.0
+CT80635,BT22,84,1,1942.0,2,0,aucune,boutique,eau,932.0,0,1942.0
+CT80622,BT15,73,4,1878.0,0,1,aucune,en ligne,chine,1317.0,0,7512.0
+CT80217,BT21,33,2,425.0,0,0,argent,boutique,italie,527.0,0,850.0
+CT80545,BT20,13,7,7680.0,3,0,or,boutique,chine,5416.0,1,53760.0
+CT80389,BT14,59,2,2276.0,1,0,,boutique,italie,1349.0,1,4552.0
+CT80491,BT26,41,1,2160.0,0,0,aucune,en ligne,eau,1708.0,0,2160.0
+CT80493,BT13,34,1,727.0,1,1,or,boutique,italie,1025.0,0,727.0
+CT80442,BT16,11,3,2781.0,0,0,aucune,mixte,italie,1794.0,0,8343.0
+CT80422,BT29,3,2,1971.0,0,2,aucune,en ligne,usa,1576.0,0,3942.0
+CT80321,BT19,63,2,2046.0,0,0,aucune,boutique,italie,1179.0,0,4092.0
+CT80482,BT21,57,5,1728.0,0,0,aucune,boutique,usa,1830.0,0,8640.0
+CT80359,BT32,11,9,8452.0,1,0,argent,boutique,usa,5390.0,1,76068.0
+CT80336,BT21,7,1,2002.0,0,0,argent,mixte,eau,1048.0,0,2002.0
+CT80273,BT31,21,2,2394.0,0,1,aucune,en ligne,italie,1540.0,1,4788.0
+CT80496,BT11,4,1,4372.0,0,0,,boutique,france,2172.0,1,4372.0
+CT80603,BT12,18,13,3074.0,1,0,aucune,boutique,usa,2468.0,1,39962.0
+CT80472,BT30,12,1,2192.0,0,1,argent,en ligne,france,1098.0,0,2192.0
+CT80041,BT13,14,1,3763.0,0,0,argent,boutique,france,2233.0,0,3763.0
+CT80618,BT10,1,1,1665.0,1,0,argent,en ligne,italie,1562.0,0,1665.0
+CT80629,BT14,11,3,2074.0,0,1,aucune,boutique,usa,1077.0,0,6222.0
+CT80379,BT14,3,10,7623.0,1,0,or,en ligne,suisse,4750.0,0,76230.0
+CT80656,BT15,20,1,636.0,0,1,,boutique,suisse,848.0,0,636.0
+CT80606,BT10,3,2,2665.0,1,0,argent,boutique,italie,2106.0,1,5330.0
+CT80057,BT30,60,7,760.0,1,1,or,mixte,chine,2226.0,1,5320.0
+CT80235,BT21,57,8,2027.0,0,0,aucune,en ligne,france,2039.0,0,16216.0
+CT80655,BT16,28,9,4892.0,0,0,argent,boutique,usa,3421.0,1,44028.0
+CT80274,BT29,17,4,1846.0,0,1,,boutique,chine,1435.0,1,7384.0
+CT80394,BT13,33,3,798.0,0,0,argent,en ligne,corée,684.0,0,2394.0
+CT80308,BT10,85,4,555.0,0,1,,boutique,france,708.0,0,2220.0
+CT80383,BT16,24,4,1966.0,0,0,or,mixte,france,2220.0,0,7864.0
+CT80358,BT11,65,4,1914.0,0,0,or,en ligne,chine,2499.0,0,7656.0
+CT80623,BT21,15,1,2223.0,1,0,aucune,en ligne,chine,1185.0,0,2223.0
+CT80525,BT27,1,9,6755.0,3,0,argent,en ligne,usa,3669.0,0,60795.0
+CT80698,BT24,27,3,3838.0,0,0,aucune,mixte,usa,2832.0,0,11514.0
+CT80094,BT29,37,3,1421.0,1,0,argent,en ligne,chine,1155.0,0,4263.0
+CT80110,BT16,51,4,972.0,0,0,or,boutique,chine,2381.0,1,3888.0
+CT80360,BT22,14,1,3260.0,0,2,argent,mixte,eau,1342.0,0,3260.0
+CT80419,BT32,14,6,5806.0,4,0,or,boutique,france,3739.0,0,34836.0
+CT80608,BT12,1,1,3418.0,0,2,aucune,boutique,usa,1980.0,0,3418.0
+CT80403,BT29,84,4,2078.0,1,0,aucune,boutique,france,1657.0,1,8312.0
+CT80125,BT30,18,3,1631.0,0,0,or,en ligne,france,2012.0,1,4893.0
+CT80632,BT13,10,17,6628.0,0,0,aucune,boutique,eau,4247.0,1,112676.0
+CT80385,BT10,74,1,1797.0,1,1,argent,boutique,chine,870.0,0,1797.0
+CT80186,BT19,63,2,1994.0,0,2,aucune,boutique,usa,576.0,0,3988.0
+CT80285,BT10,9,2,1360.0,0,1,aucune,boutique,usa,954.0,0,2720.0
+CT80392,BT14,27,3,2190.0,0,0,or,mixte,france,2709.0,0,6570.0
+CT80120,BT17,108,7,2615.0,0,0,argent,mixte,chine,1611.0,0,18305.0
+CT80562,BT16,29,1,3281.0,0,0,aucune,boutique,france,1669.0,1,3281.0
+CT80333,BT20,58,4,1990.0,0,0,aucune,boutique,usa,1338.0,1,7960.0
+CT80063,BT12,45,3,1146.0,0,0,or,boutique,france,1731.0,0,3438.0
+CT80148,BT20,61,2,1090.0,1,0,argent,boutique,suisse,752.0,1,2180.0
+CT80408,BT22,1,1,2344.0,1,1,aucune,boutique,usa,897.0,0,2344.0
+CT80658,BT20,24,4,7109.0,0,0,aucune,boutique,usa,4268.0,1,28436.0
+CT80066,BT24,78,2,1399.0,0,0,aucune,mixte,usa,1588.0,0,2798.0
+CT80570,BT12,13,2,1465.0,0,2,aucune,boutique,france,677.0,1,2930.0
+CT80009,BT11,1,3,1803.0,1,0,argent,boutique,corée,762.0,1,5409.0
+CT80224,BT21,23,1,3741.0,1,0,aucune,en ligne,italie,2296.0,1,3741.0
+CT80671,BT24,30,3,1824.0,1,0,argent,boutique,france,1169.0,0,5472.0
+CT80202,BT30,32,2,1789.0,0,1,argent,boutique,chine,2142.0,1,3578.0
+CT80316,BT13,31,1,1447.0,0,1,aucune,boutique,chine,1391.0,0,1447.0
+CT80140,BT24,1,1,5660.0,1,1,argent,boutique,usa,2644.0,0,5660.0
+CT80464,BT15,1,12,5609.0,1,0,aucune,boutique,suisse,3900.0,0,67308.0
+CT80407,BT33,11,2,3381.0,1,0,aucune,boutique,chine,2651.0,0,6762.0
+CT80064,BT21,13,2,3095.0,0,1,aucune,mixte,eau,1215.0,1,6190.0
+CT80426,BT23,23,8,7059.0,1,0,argent,en ligne,suisse,4922.0,1,56472.0
+CT80499,BT12,16,11,3537.0,0,1,aucune,mixte,france,2322.0,1,38907.0
+CT80437,BT31,32,2,505.0,2,0,aucune,boutique,france,529.0,0,1010.0
+CT80551,BT33,4,6,4525.0,2,1,argent,en ligne,italie,2610.0,1,27150.0
+CT80602,BT21,59,3,2347.0,0,0,or,mixte,italie,1862.0,0,7041.0
+CT80376,BT12,38,3,1118.0,0,0,aucune,boutique,eau,838.0,0,3354.0
+CT80568,BT30,59,5,2076.0,0,0,aucune,mixte,usa,1267.0,1,10380.0
+CT80277,BT30,1,2,3841.0,0,1,argent,mixte,chine,1968.0,0,7682.0
+CT80619,BT25,46,2,2193.0,0,0,aucune,boutique,france,1588.0,1,4386.0
+CT80409,BT15,1,2,1313.0,0,1,argent,en ligne,chine,1247.0,0,2626.0
+CT80326,BT10,27,2,1603.0,0,0,argent,boutique,france,1620.0,1,3206.0
+CT80630,BT12,18,1,1351.0,0,1,aucune,boutique,france,593.0,0,1351.0
+CT80329,BT11,46,6,1733.0,0,1,aucune,mixte,italie,1129.0,0,10398.0
+CT80638,BT15,37,3,1369.0,0,1,aucune,mixte,usa,1379.0,0,4107.0
+CT80236,BT29,5,1,1762.0,1,0,aucune,boutique,italie,1436.0,0,1762.0
+CT80104,BT32,15,2,1960.0,0,0,aucune,boutique,corée,2293.0,1,3920.0
+CT80532,BT11,36,6,2770.0,0,1,aucune,boutique,corée,2495.0,0,16620.0
+CT80239,BT31,3,7,6686.0,2,0,aucune,boutique,france,3514.0,0,46802.0
+CT80271,BT16,26,1,2693.0,1,1,or,mixte,france,2836.0,0,2693.0
+CT80388,BT29,21,2,2050.0,0,0,aucune,boutique,chine,2239.0,0,4100.0
+CT80138,BT20,15,2,3532.0,0,0,aucune,boutique,france,2206.0,1,7064.0
+CT80425,BT30,11,2,3102.0,1,0,or,boutique,usa,2884.0,1,6204.0
+CT80445,BT22,70,3,2213.0,0,1,or,boutique,france,2951.0,0,6639.0
+CT80620,BT15,18,2,2649.0,1,0,aucune,boutique,chine,1728.0,0,5298.0
+CT80558,BT32,43,2,2292.0,2,0,aucune,en ligne,corée,1382.0,0,4584.0
+CT80060,BT11,35,6,2305.0,0,1,argent,en ligne,france,1380.0,0,13830.0
+CT80252,BT25,18,2,2716.0,0,1,argent,en ligne,eau,2180.0,0,5432.0
+CT80172,BT32,2,1,975.0,0,0,aucune,mixte,chine,1128.0,0,975.0
+CT80127,BT22,19,2,1446.0,1,0,aucune,boutique,corée,750.0,0,2892.0
+CT80500,BT13,34,3,2546.0,0,1,or,boutique,eau,2427.0,1,7638.0
+CT80563,BT30,1,6,2051.0,0,1,or,boutique,corée,1757.0,0,12306.0
+CT80346,BT30,11,1,2020.0,0,1,argent,boutique,france,1457.0,0,2020.0
+CT80270,BT11,15,1,3345.0,0,1,or,boutique,france,3065.0,1,3345.0
+CT80691,BT30,44,4,1599.0,1,2,argent,mixte,chine,1388.0,1,6396.0
+CT80299,BT13,1,3,1143.0,0,1,argent,mixte,suisse,952.0,0,3429.0
+CT80596,BT19,23,10,5938.0,0,0,argent,boutique,chine,4728.0,1,59380.0
+CT80074,BT31,64,3,875.0,0,1,aucune,en ligne,eau,856.0,0,2625.0
+CT80192,BT21,31,5,1193.0,0,1,aucune,boutique,italie,1706.0,0,5965.0
+CT80128,BT15,27,1,1803.0,1,0,or,boutique,france,2057.0,0,1803.0
+CT80527,BT24,13,4,4325.0,3,0,or,boutique,chine,4092.0,0,17300.0
+CT80109,BT23,42,4,1905.0,0,1,or,boutique,corée,2009.0,0,7620.0
+CT80025,BT16,16,1,2079.0,0,1,aucune,boutique,france,1172.0,0,2079.0
+CT80478,BT28,4,3,3045.0,1,1,aucune,mixte,chine,2782.0,0,9135.0
+CT80549,BT12,45,4,2069.0,0,0,argent,en ligne,suisse,2165.0,0,8276.0
+CT80396,BT27,57,5,754.0,0,1,aucune,en ligne,usa,751.0,0,3770.0
+CT80334,BT26,35,4,2019.0,0,0,,boutique,france,2090.0,1,8076.0
+CT80099,BT33,20,2,751.0,0,0,aucune,boutique,chine,274.0,0,1502.0
+CT80024,BT16,33,2,2475.0,0,0,argent,en ligne,france,2212.0,0,4950.0
+CT80065,BT26,9,3,3151.0,0,0,or,mixte,france,3284.0,0,9453.0
+CT80395,BT27,28,1,2581.0,0,0,aucune,en ligne,chine,2076.0,0,2581.0
+CT80539,BT15,12,2,2929.0,0,1,or,boutique,corée,3629.0,0,5858.0
+CT80374,BT29,11,1,2364.0,1,0,argent,boutique,france,2146.0,0,2364.0
+CT80586,BT22,52,6,2457.0,0,0,aucune,boutique,france,1931.0,1,14742.0
+CT80504,BT14,65,1,820.0,1,1,argent,mixte,chine,382.0,1,820.0
+CT80180,BT33,19,3,3095.0,0,0,or,boutique,suisse,3128.0,1,9285.0
+CT80070,BT15,65,5,1808.0,0,0,aucune,en ligne,chine,2027.0,0,9040.0
+CT80515,BT11,27,3,2234.0,0,0,aucune,boutique,france,2414.0,0,6702.0
+CT80466,BT22,15,10,6328.0,2,0,aucune,boutique,italie,4440.0,1,63280.0
+CT80672,BT23,10,9,12685.0,1,0,argent,boutique,usa,6594.0,1,114165.0
+CT80179,BT14,21,1,2425.0,0,0,,boutique,eau,1910.0,1,2425.0
+CT80597,BT24,8,1,1355.0,0,0,or,boutique,eau,1925.0,1,1355.0
+CT80327,BT31,1,1,3396.0,0,0,or,boutique,chine,3172.0,0,3396.0
+CT80674,BT27,45,2,1557.0,1,1,aucune,mixte,france,1233.0,1,3114.0
+CT80220,BT25,62,4,2432.0,0,0,aucune,boutique,france,2016.0,1,9728.0
+CT80431,BT19,31,4,1784.0,0,0,argent,en ligne,chine,543.0,0,7136.0
+CT80688,BT30,67,1,1789.0,2,0,aucune,boutique,eau,1240.0,0,1789.0
+CT80528,BT32,9,2,1496.0,0,2,argent,boutique,chine,551.0,1,2992.0
+CT80344,BT13,93,3,1777.0,0,1,aucune,boutique,usa,1691.0,0,5331.0
+CT80585,BT16,34,1,1384.0,1,1,argent,en ligne,chine,1437.0,0,1384.0
+CT80556,BT15,36,1,3308.0,1,0,or,boutique,italie,2609.0,0,3308.0
+CT80510,BT31,1,1,2699.0,0,1,argent,boutique,chine,2333.0,0,2699.0
+CT80022,BT32,36,2,1095.0,1,0,aucune,boutique,suisse,822.0,0,2190.0
+CT80625,BT33,40,4,1801.0,0,0,argent,mixte,corée,1381.0,0,7204.0
+CT80228,BT29,43,1,290.0,0,0,aucune,en ligne,france,179.0,0,290.0
+CT80002,BT10,11,14,3265.0,0,2,aucune,boutique,usa,2703.0,1,45710.0
+CT80232,BT26,26,1,2107.0,1,1,aucune,mixte,france,1831.0,0,2107.0
+CT80467,BT31,1,3,1473.0,0,1,argent,mixte,chine,1311.0,0,4419.0
+CT80259,BT23,28,5,861.0,0,0,argent,en ligne,italie,1732.0,0,4305.0
+CT80659,BT26,24,2,560.0,1,0,argent,boutique,france,472.0,1,1120.0
+CT80686,BT19,29,4,1502.0,0,1,aucune,mixte,usa,814.0,0,6008.0
+CT80115,BT19,44,1,1372.0,0,0,aucune,en ligne,chine,1337.0,0,1372.0
+CT80371,BT11,39,12,5285.0,0,0,argent,mixte,italie,3160.0,1,63420.0
+CT80553,BT30,4,3,2636.0,0,0,aucune,boutique,eau,1815.0,1,7908.0
+CT80480,BT17,47,2,1514.0,0,1,aucune,boutique,france,1281.0,0,3028.0
+CT80051,BT29,18,1,1850.0,1,0,argent,en ligne,eau,1878.0,0,1850.0
+CT80311,BT18,6,7,755.0,2,1,argent,boutique,chine,1193.0,1,5285.0
+CT80594,BT10,1,5,1145.0,0,1,argent,mixte,usa,1469.0,1,5725.0
+CT80390,BT13,24,12,4840.0,1,1,aucune,boutique,france,2987.0,1,58080.0
+CT80272,BT33,63,4,2177.0,0,1,aucune,mixte,eau,2145.0,0,8708.0
+CT80634,BT11,11,6,1782.0,1,2,argent,boutique,chine,1067.0,0,10692.0
+CT80283,BT25,12,2,2850.0,0,1,argent,en ligne,france,2030.0,1,5700.0
+CT80328,BT17,3,1,2719.0,0,0,aucune,en ligne,corée,2230.0,0,2719.0
+CT80471,BT26,8,8,8053.0,0,0,argent,en ligne,usa,4928.0,1,64424.0
+CT80457,BT16,45,8,1748.0,0,0,aucune,mixte,france,2101.0,0,13984.0
+CT80613,BT17,63,4,1711.0,1,0,aucune,boutique,usa,1417.0,1,6844.0
+CT80189,BT21,20,1,1584.0,1,0,argent,boutique,italie,1260.0,1,1584.0
+CT80294,BT25,21,5,1163.0,1,0,aucune,boutique,corée,1098.0,0,5815.0
+CT80577,BT19,26,7,7782.0,1,0,or,en ligne,france,5145.0,0,54474.0
+CT80097,BT11,32,10,8863.0,3,0,aucune,boutique,france,4896.0,1,88630.0
+CT80149,BT13,6,1,3692.0,0,0,aucune,en ligne,italie,2762.0,1,3692.0
+CT80534,BT29,60,2,1850.0,0,1,argent,mixte,france,1021.0,1,3700.0
+CT80191,BT13,50,3,1786.0,0,0,aucune,boutique,france,861.0,1,5358.0
+CT80574,BT21,27,8,7677.0,0,0,aucune,boutique,france,5010.0,0,61416.0
+CT80523,BT20,17,4,1547.0,0,0,aucune,en ligne,usa,1157.0,1,6188.0
+CT80054,BT22,24,2,2258.0,0,0,argent,boutique,france,1833.0,0,4516.0
+CT80411,BT17,4,2,4008.0,0,0,aucune,en ligne,france,2576.0,0,8016.0
+CT80306,BT23,16,9,5548.0,1,1,aucune,mixte,corée,3777.0,0,49932.0
+CT80046,BT31,30,4,1430.0,1,0,aucune,en ligne,suisse,1269.0,0,5720.0
+CT80387,BT13,23,1,3441.0,0,0,or,boutique,france,2967.0,0,3441.0
+CT80261,BT22,35,6,1694.0,0,0,argent,mixte,france,1744.0,1,10164.0
+CT80377,BT30,16,2,2787.0,0,2,aucune,mixte,france,1477.0,1,5574.0
+CT80132,BT14,16,8,8261.0,0,1,argent,boutique,usa,4363.0,0,66088.0
+CT80222,BT11,71,3,2321.0,1,0,aucune,mixte,suisse,1512.0,0,6963.0
+CT80626,BT11,54,5,1735.0,0,0,argent,mixte,suisse,1748.0,0,8675.0
+CT80048,BT26,20,1,816.0,0,1,aucune,en ligne,chine,1458.0,0,816.0
+CT80134,BT32,15,4,2226.0,0,0,or,boutique,usa,2662.0,0,8904.0
+CT80023,BT25,45,2,2041.0,0,0,argent,en ligne,corée,1787.0,0,4082.0
+CT80193,BT24,22,13,7899.0,0,0,argent,en ligne,eau,4676.0,0,102687.0
+CT80242,BT29,58,4,1826.0,0,0,aucune,boutique,eau,2006.0,1,7304.0
+CT80640,BT14,26,6,835.0,0,1,aucune,boutique,usa,594.0,1,5010.0
+CT80055,BT32,17,12,307.0,2,0,aucune,mixte,france,625.0,1,3684.0
+CT80498,BT26,7,1,3333.0,1,0,or,boutique,usa,2912.0,0,3333.0
+CT80446,BT20,17,12,6505.0,2,1,aucune,boutique,france,4298.0,1,78060.0
+CT80141,BT29,28,3,1702.0,1,0,aucune,mixte,eau,656.0,0,5106.0
+CT80101,BT18,14,9,8996.0,0,1,aucune,en ligne,france,5274.0,0,80964.0
+CT80662,BT13,48,7,1627.0,0,0,argent,en ligne,eau,1997.0,1,11389.0
+CT80188,BT28,54,4,1486.0,0,0,aucune,boutique,france,1217.0,1,5944.0
+CT80352,BT26,16,2,1948.0,1,1,or,en ligne,france,1311.0,0,3896.0
+CT80108,BT12,33,4,754.0,0,0,aucune,en ligne,italie,846.0,1,3016.0
+CT80289,BT27,9,6,10232.0,2,0,or,mixte,italie,6708.0,0,61392.0
+CT80429,BT12,11,13,7792.0,1,0,aucune,en ligne,usa,4431.0,0,101296.0
+CT80581,BT31,84,5,985.0,0,0,argent,mixte,usa,1508.0,0,4925.0
+CT80473,BT25,36,3,1527.0,0,1,or,boutique,france,1687.0,1,4581.0
+CT80205,BT18,20,2,3638.0,0,1,aucune,en ligne,chine,2145.0,1,7276.0
+CT80357,BT23,71,1,1367.0,0,0,argent,boutique,eau,1024.0,0,1367.0
+CT80003,BT17,14,1,2851.0,1,1,argent,boutique,chine,1838.0,0,2851.0
+CT80058,BT23,77,3,1521.0,0,0,argent,en ligne,suisse,1878.0,1,4563.0
+CT80223,BT32,52,2,1567.0,0,2,aucune,boutique,france,1095.0,1,3134.0
+CT80447,BT16,6,4,1880.0,2,1,aucune,mixte,eau,1314.0,0,7520.0
+CT80221,BT19,24,2,1253.0,1,1,aucune,boutique,usa,890.0,0,2506.0
+CT80463,BT33,18,1,1374.0,0,0,aucune,boutique,usa,1482.0,0,1374.0
+CT80367,BT20,25,8,8509.0,1,1,argent,boutique,france,4491.0,1,68072.0
+CT80209,BT27,49,1,1024.0,1,2,aucune,en ligne,france,649.0,1,1024.0
+CT80052,BT16,55,3,1550.0,1,1,aucune,en ligne,france,909.0,0,4650.0
+CT80017,BT24,65,7,766.0,1,0,or,boutique,france,2262.0,0,5362.0
+CT80229,BT20,13,1,3119.0,0,0,argent,boutique,chine,2285.0,0,3119.0
+CT80300,BT18,11,1,2436.0,1,0,aucune,boutique,corée,1443.0,0,2436.0
+CT80146,BT15,91,2,2011.0,1,0,aucune,boutique,chine,1652.0,1,4022.0
+CT80050,BT23,105,6,2240.0,0,0,aucune,mixte,france,1972.0,1,13440.0
+CT80699,BT10,26,7,9077.0,0,0,aucune,en ligne,chine,5829.0,0,63539.0
+CT80155,BT16,26,2,1771.0,0,0,argent,boutique,eau,1458.0,1,3542.0
+CT80399,BT20,73,2,2168.0,0,2,aucune,boutique,italie,1124.0,0,4336.0
+CT80518,BT23,31,2,1274.0,0,0,aucune,boutique,france,965.0,0,2548.0
+CT80248,BT32,15,1,2456.0,1,1,argent,boutique,corée,669.0,1,2456.0
+CT80249,BT14,2,1,1311.0,0,1,or,en ligne,france,1876.0,0,1311.0
+CT80652,BT20,20,3,1672.0,0,2,argent,boutique,eau,1869.0,1,5016.0
+CT80030,BT10,28,4,2665.0,2,2,,en ligne,chine,2351.0,0,10660.0
+CT80448,BT17,17,2,2964.0,0,0,argent,boutique,usa,1992.0,0,5928.0
+CT80117,BT13,73,2,2039.0,1,1,or,boutique,france,1968.0,1,4078.0
+CT80512,BT17,36,5,1097.0,0,0,or,boutique,france,1767.0,1,5485.0
+CT80116,BT13,1,10,1178.0,1,1,or,boutique,chine,1900.0,0,11780.0
+CT80296,BT24,59,4,1421.0,0,0,argent,boutique,eau,1482.0,1,5684.0
+CT80592,BT16,53,5,1525.0,1,1,argent,boutique,suisse,736.0,0,7625.0
+CT80027,BT23,23,1,1238.0,1,0,argent,en ligne,usa,705.0,0,1238.0
+CT80319,BT20,59,4,1277.0,0,1,argent,mixte,france,999.0,0,5108.0
+CT80200,BT28,8,2,1361.0,1,0,or,en ligne,usa,1638.0,0,2722.0
+CT80353,BT31,26,1,4326.0,0,0,argent,boutique,italie,2462.0,0,4326.0
+CT80692,BT13,16,1,725.0,0,0,or,en ligne,corée,1898.0,1,725.0
+CT80612,BT31,20,9,7412.0,0,0,aucune,boutique,usa,4298.0,1,66708.0
+CT80280,BT10,32,2,2865.0,0,0,argent,en ligne,eau,1290.0,0,5730.0
+CT80599,BT24,20,1,2970.0,0,0,or,boutique,italie,2350.0,0,2970.0
+CT80601,BT24,16,3,2190.0,1,2,aucune,boutique,chine,1451.0,0,6570.0
+CT80508,BT16,8,12,3091.0,3,0,aucune,boutique,italie,1098.0,0,37092.0
+CT80459,BT20,61,3,2318.0,0,0,aucune,mixte,italie,1048.0,0,6954.0
+CT80154,BT22,18,2,3993.0,0,1,argent,mixte,chine,2190.0,1,7986.0
+CT80660,BT10,35,3,1343.0,2,0,aucune,boutique,eau,864.0,0,4029.0
+CT80557,BT33,59,4,2064.0,0,2,argent,mixte,chine,2107.0,0,8256.0
+CT80323,BT18,41,5,1088.0,1,0,or,en ligne,chine,2503.0,1,5440.0
+CT80453,BT24,8,2,1539.0,0,2,argent,boutique,france,987.0,1,3078.0
+CT80056,BT33,51,4,2520.0,0,0,argent,en ligne,france,1983.0,1,10080.0
+CT80262,BT17,23,2,3277.0,0,0,argent,boutique,france,1884.0,0,6554.0
+CT80082,BT15,1,2,1361.0,0,0,argent,en ligne,eau,1431.0,0,2722.0
+CT80351,BT21,51,5,1008.0,2,0,aucune,boutique,chine,1162.0,0,5040.0
+CT80668,BT28,72,1,1493.0,1,0,argent,boutique,suisse,485.0,0,1493.0
+CT80038,BT28,3,1,2479.0,1,0,argent,boutique,suisse,2131.0,0,2479.0
+CT80368,BT25,60,2,2659.0,0,0,aucune,boutique,eau,2537.0,1,5318.0
+CT80010,BT33,7,12,7635.0,2,0,argent,en ligne,france,4991.0,1,91620.0
+CT80350,BT20,25,1,1481.0,0,0,or,boutique,france,1735.0,0,1481.0
+CT80032,BT10,89,7,2250.0,0,1,aucune,boutique,chine,1806.0,1,15750.0
+CT80281,BT16,80,3,1747.0,1,0,argent,mixte,france,1547.0,1,5241.0
+CT80401,BT12,84,2,1916.0,0,0,argent,boutique,france,1395.0,0,3832.0
+CT80689,BT22,5,2,2399.0,1,1,aucune,boutique,france,1429.0,0,4798.0
+CT80414,BT22,47,5,2165.0,0,0,aucune,en ligne,corée,2299.0,0,10825.0
+CT80670,BT12,19,4,2132.0,0,1,or,en ligne,italie,2330.0,0,8528.0
+CT80305,BT14,64,4,1988.0,1,0,argent,boutique,usa,1334.0,0,7952.0
+CT80365,BT15,67,1,3042.0,0,1,aucune,boutique,usa,2402.0,1,3042.0
+CT80089,BT32,17,2,1625.0,1,0,aucune,boutique,france,1251.0,1,3250.0
+CT80213,BT33,41,3,3811.0,1,0,aucune,mixte,usa,3040.0,1,11433.0
+CT80133,BT15,45,3,1762.0,1,1,argent,boutique,suisse,1604.0,1,5286.0
+CT80564,BT11,7,3,3268.0,0,0,argent,mixte,eau,2732.0,1,9804.0
+CT80007,BT27,15,2,3630.0,0,0,argent,en ligne,france,2310.0,1,7260.0
+CT80417,BT22,25,2,1406.0,0,0,argent,boutique,usa,929.0,0,2812.0
+CT80598,BT13,1,3,3169.0,0,1,aucune,en ligne,france,2656.0,1,9507.0
+CT80187,BT23,21,1,2414.0,1,0,argent,boutique,chine,1486.0,0,2414.0
+CT80122,BT19,49,3,2123.0,0,2,or,boutique,chine,2711.0,0,6369.0
+CT80040,BT19,8,1,2436.0,0,0,aucune,mixte,chine,2820.0,1,2436.0
+CT80304,BT12,66,4,872.0,0,0,aucune,en ligne,italie,687.0,0,3488.0
+CT80412,BT24,53,7,1618.0,1,0,aucune,boutique,france,1262.0,1,11326.0
+CT80544,BT19,1,6,4909.0,0,0,aucune,boutique,eau,3066.0,0,29454.0
+CT80284,BT17,83,6,1464.0,0,0,or,boutique,france,1851.0,1,8784.0
+CT80676,BT19,22,6,4573.0,3,1,argent,mixte,france,1850.0,0,27438.0
+CT80240,BT16,18,2,1317.0,1,1,argent,boutique,italie,936.0,0,2634.0
+CT80677,BT27,51,3,597.0,1,0,aucune,mixte,france,851.0,0,1791.0
+CT80614,BT23,13,2,4167.0,0,1,argent,boutique,france,3291.0,1,8334.0
+CT80424,BT26,62,4,1947.0,1,2,aucune,boutique,corée,1816.0,0,7788.0
+CT80538,BT16,84,1,1966.0,0,0,aucune,mixte,italie,1181.0,1,1966.0
+CT80245,BT26,72,2,2513.0,1,0,aucune,boutique,france,1436.0,0,5026.0
+CT80443,BT30,87,3,2391.0,1,0,argent,en ligne,france,2353.0,0,7173.0
+CT80071,BT17,72,4,2580.0,0,0,aucune,en ligne,france,2210.0,0,10320.0
+CT80573,BT26,44,3,1742.0,0,1,aucune,boutique,eau,1905.0,0,5226.0
+CT80145,BT14,18,14,5078.0,2,1,aucune,en ligne,france,2615.0,0,71092.0
+CT80090,BT19,10,3,2598.0,0,0,aucune,boutique,eau,1249.0,1,7794.0
+CT80166,BT31,5,1,2724.0,0,0,aucune,boutique,chine,1592.0,1,2724.0
+CT80430,BT12,7,1,2229.0,2,1,argent,boutique,france,709.0,0,2229.0
+CT80170,BT10,22,5,3905.0,0,0,aucune,mixte,corée,2965.0,0,19525.0
+CT80310,BT29,45,5,2205.0,0,0,aucune,boutique,france,2357.0,0,11025.0
+CT80511,BT33,29,2,2312.0,1,0,or,mixte,eau,1930.0,1,4624.0
+CT80639,BT28,29,3,1264.0,0,0,aucune,en ligne,france,746.0,0,3792.0
+CT80572,BT23,1,1,2850.0,0,0,or,boutique,italie,2980.0,0,2850.0
+CT80243,BT29,19,1,2749.0,0,0,argent,en ligne,chine,2058.0,1,2749.0
+CT80087,BT11,11,4,3036.0,0,0,aucune,boutique,corée,2535.0,0,12144.0
+CT80214,BT25,31,2,4638.0,0,2,argent,en ligne,usa,3457.0,0,9276.0
+CT80173,BT25,27,3,1946.0,0,1,argent,mixte,france,988.0,0,5838.0
+CT80605,BT19,7,1,1840.0,0,0,argent,mixte,france,2017.0,0,1840.0
+CT80291,BT30,1,1,2258.0,0,0,aucune,en ligne,usa,1688.0,0,2258.0
+CT80590,BT12,40,1,365.0,2,0,aucune,en ligne,italie,90.0,0,365.0
+CT80118,BT30,56,4,1453.0,0,1,or,mixte,chine,1940.0,0,5812.0
+CT80119,BT11,33,5,1819.0,0,0,aucune,boutique,usa,1299.0,1,9095.0
+CT80600,BT26,56,4,2232.0,1,0,aucune,boutique,chine,979.0,1,8928.0
+CT80449,BT26,72,4,2491.0,2,0,aucune,boutique,chine,1529.0,1,9964.0
+CT80669,BT25,5,10,5894.0,1,0,,mixte,usa,3488.0,1,58940.0
+CT80681,BT22,1,4,1028.0,0,1,or,mixte,france,2798.0,0,4112.0
+CT80509,BT23,66,5,2134.0,0,0,aucune,boutique,corée,1690.0,1,10670.0
+CT80162,BT11,41,1,2816.0,0,0,aucune,en ligne,chine,2267.0,0,2816.0
+CT80320,BT25,1,3,1476.0,1,0,aucune,boutique,corée,1317.0,0,4428.0
+CT80114,BT27,47,5,1360.0,0,0,argent,boutique,usa,1440.0,1,6800.0
+CT80158,BT32,5,7,4559.0,3,0,aucune,boutique,usa,3220.0,0,31913.0
+CT80150,BT16,69,4,1353.0,1,1,argent,boutique,usa,1415.0,0,5412.0
+CT80375,BT16,7,4,4122.0,1,1,or,boutique,france,3473.0,1,16488.0
+CT80567,BT15,7,8,5454.0,0,0,aucune,boutique,chine,3573.0,0,43632.0
+CT80031,BT28,5,1,2280.0,0,0,argent,boutique,corée,1634.0,0,2280.0
+CT80020,BT28,1,1,965.0,1,0,argent,boutique,france,915.0,1,965.0
+CT80113,BT17,13,1,3094.0,0,1,argent,mixte,corée,2237.0,0,3094.0
+CT80667,BT19,17,1,2941.0,2,0,aucune,boutique,chine,1599.0,0,2941.0
+CT80000,BT20,26,3,2439.0,0,0,aucune,boutique,france,1011.0,0,7317.0
+CT80423,BT30,97,4,1492.0,1,0,aucune,en ligne,france,1649.0,1,5968.0
+CT80649,BT16,50,2,707.0,0,0,aucune,boutique,italie,839.0,0,1414.0
+CT80505,BT26,18,1,1756.0,1,0,aucune,boutique,chine,1599.0,1,1756.0
+CT80381,BT24,68,6,1827.0,1,1,aucune,en ligne,france,1418.0,1,10962.0
+CT80507,BT13,101,4,1503.0,0,0,aucune,boutique,france,1878.0,1,6012.0
+CT80258,BT21,33,1,995.0,0,0,argent,boutique,france,1039.0,1,995.0
+CT80019,BT23,5,2,6740.0,3,0,aucune,boutique,france,3830.0,0,13480.0
+CT80314,BT28,29,1,2420.0,0,1,or,boutique,france,2261.0,1,2420.0
+CT80665,BT17,90,5,1822.0,0,1,argent,boutique,france,1030.0,1,9110.0
+CT80135,BT21,15,5,2520.0,1,1,,en ligne,suisse,2410.0,0,12600.0
+CT80004,BT28,9,3,2024.0,1,0,argent,boutique,france,1306.0,0,6072.0
+CT80418,BT13,22,2,2087.0,0,0,argent,mixte,usa,1405.0,0,4174.0
+CT80324,BT21,12,2,3615.0,0,0,aucune,boutique,france,2232.0,0,7230.0
+CT80330,BT22,17,1,1466.0,0,0,or,boutique,france,2583.0,0,1466.0
+CT80503,BT23,12,1,3995.0,1,2,aucune,mixte,usa,1650.0,0,3995.0
+CT80339,BT17,21,3,2480.0,0,0,aucune,boutique,suisse,818.0,0,7440.0
+CT80297,BT27,21,2,968.0,1,1,argent,en ligne,france,669.0,0,1936.0
+CT80080,BT15,33,4,1063.0,0,0,,mixte,chine,1316.0,0,4252.0
+CT80611,BT12,13,2,2480.0,0,0,aucune,boutique,corée,2009.0,1,4960.0
+CT80026,BT20,64,4,2374.0,0,0,aucune,boutique,italie,2174.0,0,9496.0
+CT80484,BT28,21,3,595.0,0,0,aucune,boutique,corée,778.0,1,1785.0
+CT80216,BT26,73,2,1510.0,0,0,aucune,mixte,suisse,982.0,0,3020.0
+CT80569,BT12,87,3,1389.0,0,0,argent,en ligne,france,880.0,1,4167.0
+CT80343,BT18,3,10,5565.0,1,0,aucune,mixte,suisse,3792.0,1,55650.0
+CT80547,BT30,53,7,1644.0,1,0,or,boutique,france,2539.0,0,11508.0
+CT80364,BT27,39,4,1405.0,0,0,argent,boutique,corée,1788.0,0,5620.0
+CT80435,BT16,6,4,1925.0,0,1,or,mixte,suisse,2709.0,0,7700.0
+CT80147,BT28,87,4,1542.0,1,0,or,mixte,france,2359.0,0,6168.0
+CT80014,BT30,1,2,4241.0,1,0,argent,boutique,chine,2631.0,0,8482.0
+CT80174,BT16,80,2,1341.0,0,2,or,mixte,suisse,1309.0,0,2682.0
+CT80086,BT31,5,2,1513.0,0,0,argent,boutique,chine,1376.0,0,3026.0
+CT80370,BT13,54,2,2393.0,1,0,aucune,boutique,france,1718.0,1,4786.0
+CT80165,BT13,50,3,2210.0,0,0,aucune,en ligne,france,1566.0,1,6630.0
+CT80673,BT28,8,3,2203.0,1,0,aucune,mixte,suisse,1255.0,1,6609.0
+CT80335,BT27,13,3,2664.0,1,0,aucune,en ligne,chine,1417.0,0,7992.0
+CT80663,BT29,52,4,1955.0,0,0,argent,boutique,chine,1937.0,0,7820.0
+CT80470,BT30,8,9,8845.0,1,0,argent,boutique,corée,4036.0,1,79605.0
+CT80164,BT28,31,3,1732.0,0,0,argent,en ligne,corée,811.0,0,5196.0
+CT80354,BT15,1,5,2527.0,1,1,argent,boutique,chine,1488.0,0,12635.0
+CT80451,BT33,21,2,2379.0,1,2,aucune,en ligne,chine,1470.0,0,4758.0
+CT80292,BT26,49,1,2367.0,0,0,argent,boutique,chine,2014.0,1,2367.0
+CT80361,BT10,35,6,2866.0,0,1,argent,mixte,usa,1970.0,1,17196.0
+CT80542,BT20,1,14,7543.0,0,0,argent,en ligne,usa,5268.0,1,105602.0
+CT80079,BT10,52,3,1374.0,0,1,aucune,mixte,eau,1336.0,0,4122.0
+CT80591,BT32,16,8,6549.0,1,0,aucune,boutique,usa,4148.0,1,52392.0
+CT80028,BT21,59,2,1924.0,1,0,aucune,boutique,suisse,1067.0,0,3848.0
+CT80580,BT12,23,2,2593.0,0,0,aucune,boutique,france,1253.0,0,5186.0
+CT80513,BT19,17,12,2092.0,0,1,aucune,boutique,usa,2321.0,1,25104.0
+CT80530,BT24,10,2,9929.0,4,0,or,mixte,usa,6667.0,0,19858.0
+CT80485,BT15,62,1,1968.0,0,2,aucune,mixte,france,1539.0,0,1968.0
+CT80526,BT26,20,3,568.0,1,0,or,boutique,eau,1092.0,0,1704.0
+CT80378,BT12,28,4,2365.0,1,0,aucune,boutique,italie,1938.0,1,9460.0
+CT80254,BT20,42,2,2199.0,0,1,argent,boutique,france,1829.0,1,4398.0
+CT80514,BT32,33,2,2028.0,1,0,or,en ligne,eau,2271.0,0,4056.0
+CT80313,BT32,1,1,2965.0,0,0,aucune,boutique,chine,2114.0,0,2965.0
+CT80084,BT10,1,3,2517.0,0,0,aucune,boutique,chine,2173.0,0,7551.0
+CT80062,BT23,58,4,1980.0,0,0,argent,boutique,italie,1829.0,1,7920.0
+CT80136,BT14,11,2,2772.0,1,0,argent,boutique,corée,1166.0,1,5544.0
+CT80194,BT18,5,3,1707.0,1,0,,boutique,france,858.0,0,5121.0
+CT80340,BT13,52,2,1138.0,0,0,argent,boutique,suisse,1360.0,1,2276.0
+CT80178,BT21,1,1,3348.0,0,1,,boutique,usa,1759.0,0,3348.0
+CT80043,BT25,1,12,4765.0,1,0,or,boutique,chine,4502.0,0,57180.0
+CT80561,BT20,11,2,2410.0,0,0,or,boutique,france,3067.0,0,4820.0
+CT80347,BT30,116,4,1584.0,1,1,aucune,boutique,chine,763.0,1,6336.0
+CT80643,BT23,56,4,1651.0,0,0,or,mixte,corée,1917.0,1,6604.0
+CT80441,BT23,13,10,8634.0,0,1,,mixte,corée,5237.0,0,86340.0
+CT80293,BT27,50,6,2878.0,0,1,argent,boutique,chine,1950.0,1,17268.0
+CT80129,BT23,74,1,1784.0,0,0,argent,en ligne,france,1683.0,0,1784.0
+CT80693,BT15,12,3,3253.0,0,1,argent,boutique,chine,2313.0,0,9759.0
+CT80465,BT12,14,8,9235.0,0,0,argent,boutique,france,5772.0,0,73880.0
+CT80218,BT31,51,5,3377.0,0,0,argent,boutique,chine,1697.0,1,16885.0
+CT80096,BT15,29,2,2293.0,0,1,aucune,boutique,france,1813.0,0,4586.0
+CT80124,BT24,9,1,483.0,0,0,aucune,en ligne,chine,738.0,0,483.0
+CT80047,BT26,51,4,2765.0,0,1,aucune,boutique,chine,1551.0,1,11060.0
+CT80226,BT25,8,7,6231.0,5,0,aucune,boutique,chine,3014.0,0,43617.0
+CT80177,BT25,13,9,4541.0,1,2,argent,boutique,france,3159.0,1,40869.0
+CT80268,BT20,19,1,2600.0,0,0,or,boutique,usa,2025.0,0,2600.0
+CT80579,BT33,17,3,1771.0,0,0,aucune,en ligne,usa,1426.0,0,5313.0
+CT80397,BT28,18,5,2689.0,0,1,aucune,boutique,eau,1982.0,0,13445.0
+CT80489,BT28,1,4,537.0,0,0,argent,en ligne,france,410.0,0,2148.0
+CT80103,BT19,15,8,4198.0,2,0,aucune,en ligne,france,2666.0,1,33584.0
+CT80081,BT30,18,6,7861.0,0,0,argent,en ligne,france,5061.0,1,47166.0
+CT80653,BT19,7,2,2028.0,1,1,aucune,en ligne,corée,2646.0,1,4056.0
+CT80533,BT14,1,1,2601.0,0,0,aucune,boutique,suisse,2120.0,0,2601.0
+CT80458,BT21,1,5,1358.0,0,1,aucune,boutique,chine,1242.0,0,6790.0
+CT80207,BT17,67,2,2739.0,0,1,aucune,en ligne,chine,2078.0,1,5478.0
+CT80372,BT11,80,7,1738.0,1,0,argent,boutique,france,1341.0,1,12166.0
+CT80264,BT33,17,2,2896.0,1,0,aucune,mixte,france,2213.0,0,5792.0
+CT80487,BT11,1,5,2713.0,1,0,argent,en ligne,france,1927.0,0,13565.0
+CT80337,BT30,22,2,2029.0,0,0,,mixte,france,1089.0,0,4058.0
+CT80382,BT29,49,4,2005.0,1,0,argent,boutique,france,849.0,0,8020.0
+CT80227,BT26,17,2,1812.0,0,0,aucune,boutique,eau,628.0,0,3624.0
+CT80675,BT16,30,3,2087.0,0,0,argent,boutique,france,1662.0,1,6261.0
+CT80301,BT11,81,2,1369.0,0,0,aucune,en ligne,italie,1302.0,0,2738.0
+CT80501,BT23,15,1,952.0,1,0,aucune,boutique,usa,1005.0,0,952.0
+CT80275,BT15,30,1,1998.0,0,1,argent,en ligne,corée,1274.0,1,1998.0
+CT80126,BT33,70,4,1597.0,0,0,aucune,boutique,italie,1753.0,1,6388.0
+CT80492,BT13,14,5,3880.0,1,1,argent,boutique,france,2393.0,1,19400.0
+CT80263,BT29,31,1,1938.0,0,0,aucune,boutique,france,1567.0,1,1938.0
+CT80683,BT14,35,3,2213.0,0,1,argent,boutique,corée,1349.0,0,6639.0
+CT80199,BT30,28,2,353.0,1,1,or,mixte,usa,1495.0,0,706.0
+CT80253,BT23,10,7,5380.0,0,0,,boutique,italie,4163.0,1,37660.0
+CT80171,BT21,20,2,1310.0,0,1,argent,boutique,chine,1144.0,0,2620.0
+CT80237,BT32,17,1,1867.0,1,0,argent,mixte,usa,1604.0,0,1867.0
+CT80680,BT11,15,2,1627.0,0,0,aucune,boutique,chine,1922.0,0,3254.0
+CT80036,BT20,21,12,6779.0,1,0,aucune,en ligne,eau,3756.0,1,81348.0
+CT80139,BT25,8,2,5432.0,0,0,aucune,mixte,corée,3453.0,0,10864.0
+CT80303,BT14,2,1,1817.0,0,0,aucune,boutique,france,1062.0,0,1817.0
+CT80267,BT13,7,1,1237.0,0,1,aucune,boutique,chine,1424.0,0,1237.0
+CT80322,BT29,11,15,7090.0,3,0,aucune,mixte,chine,4797.0,1,106350.0
+CT80696,BT25,1,2,2488.0,0,1,aucune,boutique,france,2302.0,0,4976.0
+CT80552,BT21,18,2,2463.0,0,1,aucune,mixte,france,1685.0,1,4926.0
+CT80212,BT25,6,2,2765.0,0,0,argent,boutique,france,2549.0,0,5530.0
+CT80384,BT29,9,2,1907.0,0,0,aucune,boutique,chine,1860.0,0,3814.0
+CT80468,BT23,29,1,290.0,0,0,argent,boutique,suisse,986.0,1,290.0
+CT80198,BT10,11,1,1936.0,0,0,aucune,en ligne,chine,1331.0,1,1936.0
+CT80405,BT31,59,3,1234.0,0,1,argent,en ligne,eau,1434.0,0,3702.0
+CT80355,BT21,51,1,366.0,0,1,aucune,en ligne,suisse,762.0,0,366.0
+CT80571,BT14,59,4,567.0,0,2,or,boutique,usa,1294.0,1,2268.0
+CT80404,BT18,11,6,7827.0,4,0,aucune,mixte,chine,3643.0,0,46962.0
+CT80015,BT24,17,1,2853.0,0,1,aucune,boutique,chine,1625.0,1,2853.0
+CT80163,BT33,15,2,2561.0,0,1,argent,boutique,chine,2480.0,0,5122.0
+CT80607,BT26,14,8,7467.0,2,0,argent,boutique,chine,4428.0,0,59736.0
+CT80302,BT11,8,1,2404.0,0,0,argent,boutique,suisse,2248.0,0,2404.0
+CT80241,BT14,37,2,1156.0,0,1,aucune,mixte,france,1442.0,0,2312.0
+CT80342,BT30,22,4,1252.0,0,0,argent,boutique,chine,1186.0,0,5008.0
+CT80037,BT13,18,2,5267.0,1,1,aucune,boutique,france,3099.0,1,10534.0
+CT80386,BT18,18,2,2853.0,0,0,aucune,boutique,italie,1990.0,1,5706.0
+CT80657,BT20,17,1,932.0,0,1,argent,boutique,france,1114.0,0,932.0
+CT80454,BT26,46,6,2693.0,0,0,aucune,boutique,usa,1972.0,0,16158.0
+CT80206,BT21,42,2,2425.0,1,0,aucune,mixte,chine,1061.0,0,4850.0
+CT80295,BT26,19,1,2870.0,1,0,or,en ligne,corée,3087.0,1,2870.0
+CT80609,BT33,36,4,2324.0,1,1,argent,boutique,chine,1887.0,1,9296.0
+CT80587,BT18,76,2,290.0,1,0,aucune,en ligne,italie,213.0,0,580.0
+CT80073,BT28,61,3,1240.0,1,0,argent,boutique,france,1103.0,0,3720.0
+CT80093,BT14,11,9,3499.0,2,0,argent,boutique,suisse,2759.0,1,31491.0
+CT80543,BT11,29,5,1747.0,2,0,,boutique,eau,1482.0,1,8735.0
+CT80016,BT26,54,5,2217.0,1,0,argent,en ligne,france,1689.0,0,11085.0
+CT80439,BT14,51,1,2080.0,0,1,aucune,boutique,usa,1609.0,1,2080.0
+CT80091,BT10,78,2,557.0,0,0,aucune,mixte,france,512.0,1,1114.0
+CT80088,BT30,44,4,1855.0,0,0,or,boutique,eau,2428.0,1,7420.0
+CT80450,BT29,22,3,1145.0,0,0,aucune,boutique,france,718.0,1,3435.0
+CT80102,BT31,18,1,2279.0,1,1,argent,en ligne,suisse,1292.0,0,2279.0
+CT80238,BT29,6,1,3222.0,0,0,aucune,mixte,france,1368.0,0,3222.0
+CT80246,BT21,17,4,2051.0,0,0,or,boutique,france,2473.0,1,8204.0
+CT80546,BT32,58,3,1433.0,0,0,or,boutique,eau,2154.0,1,4299.0
+CT80157,BT30,19,3,1223.0,0,0,aucune,boutique,italie,1694.0,0,3669.0
+CT80645,BT22,3,5,2089.0,1,1,argent,en ligne,usa,1054.0,0,10445.0
+CT80628,BT10,24,4,1109.0,0,1,aucune,boutique,france,1070.0,0,4436.0
+CT80018,BT25,22,2,4298.0,0,0,argent,boutique,eau,2544.0,1,8596.0
+CT80541,BT19,16,11,4913.0,1,1,argent,en ligne,france,2830.0,1,54043.0
+CT80121,BT13,18,3,1359.0,0,0,aucune,mixte,france,1418.0,1,4077.0
+CT80540,BT28,19,7,9092.0,1,0,aucune,boutique,usa,5792.0,1,63644.0
+CT80433,BT15,26,3,3244.0,0,0,argent,boutique,corée,2286.0,1,9732.0
+CT80684,BT16,53,1,1014.0,0,0,aucune,boutique,chine,284.0,0,1014.0
+CT80694,BT31,11,10,5653.0,1,1,or,boutique,corée,4334.0,0,56530.0
+CT80637,BT12,87,2,1512.0,1,1,aucune,mixte,france,1133.0,0,3024.0
+CT80181,BT27,25,4,2303.0,1,0,argent,mixte,corée,1307.0,0,9212.0
+CT80184,BT29,26,9,2561.0,0,0,or,boutique,italie,2923.0,0,23049.0
+CT80406,BT10,1,2,1444.0,1,1,aucune,boutique,eau,1402.0,0,2888.0
+CT80520,BT23,1,3,3352.0,0,1,aucune,boutique,france,1935.0,0,10056.0
+CT80380,BT25,22,3,2664.0,0,0,or,boutique,chine,2850.0,0,7992.0
+CT80410,BT10,33,3,3093.0,0,0,aucune,mixte,italie,2045.0,1,9279.0
+CT80369,BT16,58,4,1504.0,0,0,aucune,mixte,italie,864.0,0,6016.0
+CT80621,BT29,88,4,1051.0,0,1,aucune,en ligne,usa,940.0,0,4204.0
+CT80651,BT20,16,2,3111.0,0,0,argent,boutique,france,1796.0,0,6222.0
+CT80078,BT19,28,5,1779.0,0,2,aucune,mixte,france,1118.0,0,8895.0
+CT80633,BT11,2,1,2975.0,0,0,or,en ligne,chine,3174.0,1,2975.0
+CT80069,BT11,81,2,1444.0,2,0,argent,en ligne,chine,1494.0,1,2888.0
+CT80416,BT33,32,14,4027.0,1,0,aucune,boutique,chine,3062.0,1,56378.0
+CT80565,BT20,65,5,1843.0,1,0,or,boutique,france,2773.0,0,9215.0
+CT80067,BT18,23,13,5971.0,1,0,or,en ligne,chine,4550.0,1,77623.0
+CT80536,BT23,72,3,1187.0,0,0,aucune,boutique,france,1377.0,1,3561.0
+CT80077,BT18,21,1,1533.0,0,1,argent,boutique,usa,1170.0,0,1533.0
+CT80105,BT12,11,8,8531.0,2,1,aucune,boutique,france,5512.0,1,68248.0
+CT80035,BT20,43,3,1539.0,1,0,argent,mixte,chine,1641.0,0,4617.0
+CT80595,BT19,7,2,1745.0,0,0,argent,en ligne,usa,1766.0,0,3490.0
+CT80559,BT14,23,8,1006.0,3,0,aucune,boutique,corée,1406.0,0,8048.0
+CT80664,BT12,19,1,1281.0,0,0,aucune,mixte,eau,179.0,0,1281.0
+CT80593,BT30,69,2,1525.0,0,0,argent,en ligne,usa,1272.0,1,3050.0
+CT80490,BT26,64,3,290.0,1,0,aucune,en ligne,chine,966.0,0,870.0
+CT80644,BT25,15,10,5403.0,2,0,aucune,boutique,eau,2813.0,1,54030.0
+CT80363,BT18,16,2,2665.0,0,0,aucune,en ligne,france,2266.0,1,5330.0
+CT80548,BT31,11,3,2685.0,1,0,aucune,boutique,france,2274.0,1,8055.0
+CT80160,BT21,23,6,1139.0,0,0,aucune,mixte,france,1875.0,0,6834.0
+CT80011,BT15,35,4,2600.0,1,0,argent,en ligne,corée,1603.0,0,10400.0
+CT80144,BT27,43,1,1967.0,0,2,or,boutique,france,1585.0,1,1967.0
+CT80517,BT10,93,1,2515.0,0,2,argent,mixte,corée,1618.0,1,2515.0
+CT80427,BT12,30,1,2403.0,1,0,aucune,boutique,suisse,1941.0,0,2403.0
+CT80176,BT33,30,4,1467.0,1,1,,boutique,france,864.0,0,5868.0
+CT80440,BT25,52,5,1467.0,0,1,aucune,mixte,france,1009.0,1,7335.0
+CT80521,BT14,19,2,2050.0,1,1,or,boutique,france,2663.0,0,4100.0
+CT80666,BT20,84,7,2417.0,0,1,argent,boutique,italie,1391.0,0,16919.0
+CT80231,BT31,1,11,8521.0,0,0,aucune,mixte,france,5189.0,1,93731.0
+CT80210,BT12,22,5,1914.0,0,0,aucune,mixte,usa,2037.0,1,9570.0
+CT80143,BT23,22,8,7743.0,2,0,or,en ligne,usa,5868.0,1,61944.0
+CT80519,BT15,14,2,1670.0,1,3,argent,mixte,france,676.0,1,3340.0
+CT80298,BT16,14,1,2465.0,1,0,aucune,boutique,france,1531.0,0,2465.0
+CT80428,BT22,52,1,2894.0,0,1,aucune,mixte,france,2853.0,0,2894.0
+CT80529,BT28,1,4,955.0,0,0,argent,mixte,chine,950.0,0,3820.0
+CT80008,BT22,54,3,2360.0,0,0,aucune,boutique,france,1536.0,0,7080.0
+CT80156,BT32,77,1,1675.0,0,0,argent,mixte,chine,1374.0,1,1675.0
+CT80506,BT19,23,1,2594.0,0,0,argent,boutique,italie,1355.0,0,2594.0
+CT80436,BT10,27,3,3045.0,0,0,argent,boutique,france,2089.0,0,9135.0
+CT80266,BT22,33,4,985.0,0,0,argent,mixte,eau,751.0,1,3940.0
+CT80461,BT24,89,4,2385.0,1,1,argent,boutique,usa,1612.0,1,9540.0
+CT80576,BT27,50,4,2708.0,1,0,aucune,boutique,france,1210.0,0,10832.0
+CT80338,BT28,28,3,1818.0,0,0,or,en ligne,usa,1595.0,0,5454.0
+CT80255,BT15,1,2,1235.0,0,0,aucune,en ligne,france,1635.0,0,2470.0
+CT80641,BT18,22,8,5371.0,0,0,or,mixte,corée,4171.0,1,42968.0
+CT80650,BT22,1,2,2953.0,0,0,aucune,boutique,usa,1833.0,1,5906.0
+CT80560,BT10,56,3,2322.0,0,0,argent,mixte,italie,1882.0,1,6966.0
+CT80208,BT20,34,4,1779.0,0,0,argent,boutique,eau,1414.0,1,7116.0
+CT80287,BT17,19,2,2768.0,0,0,aucune,mixte,france,2116.0,0,5536.0
+CT80001,BT11,16,2,3377.0,0,3,argent,boutique,corée,2438.0,1,6754.0
+CT80341,BT25,22,4,3706.0,1,0,aucune,en ligne,usa,1936.0,0,14824.0
+CT80269,BT15,9,1,1668.0,0,1,argent,boutique,corée,1062.0,0,1668.0
+CT80265,BT15,4,1,3106.0,0,2,or,boutique,usa,2893.0,0,3106.0
+CT80624,BT18,21,7,6515.0,1,0,aucune,boutique,france,3974.0,1,45605.0
+CT80627,BT11,58,5,1833.0,0,1,aucune,boutique,chine,1392.0,0,9165.0
+CT80095,BT20,10,12,5280.0,2,0,argent,boutique,chine,2680.0,1,63360.0
+CT80042,BT18,33,3,2575.0,0,1,argent,boutique,france,1673.0,0,7725.0
+CT80616,BT27,66,3,1643.0,0,0,aucune,boutique,suisse,2306.0,0,4929.0
+CT80685,BT17,33,6,1316.0,0,1,aucune,boutique,chine,1399.0,0,7896.0
+CT80045,BT25,16,1,2097.0,1,0,aucune,en ligne,corée,1407.0,0,2097.0
+CT80161,BT20,21,2,2694.0,0,1,argent,boutique,france,2371.0,1,5388.0
+CT80288,BT23,89,2,2438.0,0,0,argent,boutique,chine,1980.0,0,4876.0
+CT80589,BT14,63,7,2051.0,0,0,aucune,boutique,usa,959.0,1,14357.0
+CT80682,BT27,17,1,2312.0,1,0,aucune,en ligne,usa,1689.0,1,2312.0
+CT80575,BT12,44,3,2961.0,0,0,aucune,en ligne,france,2520.0,0,8883.0
+CT80315,BT18,31,11,5186.0,2,0,aucune,mixte,usa,3711.0,1,57046.0
+CT80230,BT28,44,5,2110.0,1,2,argent,boutique,italie,1690.0,1,10550.0
+CT80076,BT20,9,2,2148.0,0,0,or,mixte,france,2354.0,0,4296.0
+CT80247,BT32,10,1,2828.0,0,1,aucune,mixte,france,1470.0,0,2828.0
+CT80476,BT30,18,1,1204.0,0,2,aucune,boutique,france,1160.0,0,1204.0
+CT80085,BT15,29,3,3792.0,0,0,argent,mixte,france,2573.0,1,11376.0
+CT80469,BT11,36,2,2013.0,1,0,aucune,boutique,italie,1130.0,1,4026.0
+CT80225,BT31,42,7,1241.0,1,0,,en ligne,chine,386.0,0,8687.0
+CT80331,BT17,31,3,3839.0,0,0,aucune,boutique,usa,2134.0,1,11517.0
+CT80233,BT28,60,5,995.0,0,0,or,boutique,france,2169.0,1,4975.0
+CT80588,BT19,84,2,1321.0,0,0,argent,mixte,italie,1513.0,0,2642.0
+CT80475,BT20,56,4,1307.0,0,0,argent,boutique,france,1277.0,1,5228.0
+CT80421,BT16,61,5,2414.0,1,0,argent,boutique,france,1607.0,1,12070.0
+CT80182,BT25,49,4,1291.0,0,0,aucune,boutique,chine,935.0,1,5164.0
+CT80617,BT33,10,1,1736.0,0,0,aucune,boutique,eau,1326.0,1,1736.0
+CT80332,BT26,25,1,2166.0,0,0,aucune,boutique,suisse,1478.0,0,2166.0
+CT80438,BT24,53,3,1696.0,0,0,aucune,en ligne,chine,1612.0,0,5088.0
+CT80049,BT23,7,1,3952.0,0,0,aucune,mixte,italie,2674.0,0,3952.0
+CT80005,BT32,27,6,1221.0,0,0,argent,boutique,eau,530.0,0,7326.0
+CT80234,BT25,41,4,833.0,1,0,argent,en ligne,france,246.0,0,3332.0
+CT80486,BT32,1,2,2571.0,0,0,aucune,en ligne,france,2071.0,1,5142.0
+CT80690,BT24,18,12,4760.0,1,0,argent,en ligne,eau,2759.0,1,57120.0
+CT80497,BT10,3,1,2813.0,1,1,aucune,mixte,france,1823.0,0,2813.0
+CT80687,BT28,43,2,2925.0,0,0,aucune,en ligne,corée,2338.0,1,5850.0
+CT80106,BT21,23,3,2046.0,0,0,aucune,boutique,france,1244.0,0,6138.0
+CT80488,BT30,26,6,6830.0,3,0,argent,en ligne,france,3570.0,1,40980.0
+CT80646,BT28,65,3,626.0,0,0,aucune,en ligne,suisse,1071.0,0,1878.0
+CT80012,BT10,20,1,2056.0,1,0,argent,boutique,france,1580.0,0,2056.0
+CT80190,BT26,1,10,5130.0,2,0,or,en ligne,france,3897.0,1,51300.0
+CT80282,BT25,7,2,520.0,0,1,aucune,mixte,eau,889.0,0,1040.0
+CT80029,BT10,61,4,2157.0,0,0,aucune,boutique,france,1549.0,1,8628.0
+CT80169,BT29,45,2,775.0,0,0,argent,boutique,italie,699.0,1,1550.0
+CT80100,BT11,1,2,2616.0,1,0,aucune,boutique,france,1763.0,0,5232.0
+CT80197,BT31,18,12,8119.0,3,0,argent,mixte,france,4999.0,0,97428.0
+CT80495,BT25,16,1,2724.0,0,0,argent,boutique,france,2142.0,0,2724.0
+CT80647,BT25,17,2,2646.0,0,1,aucune,mixte,corée,1615.0,0,5292.0
+CT80373,BT26,20,11,4005.0,1,0,argent,boutique,france,2784.0,0,44055.0
+CT80678,BT30,35,2,1571.0,0,2,aucune,boutique,eau,1140.0,0,3142.0
+CT80648,BT11,35,4,2058.0,1,1,aucune,boutique,usa,1174.0,0,8232.0
+CT80460,BT13,25,3,482.0,0,0,aucune,boutique,chine,850.0,1,1446.0
+CT80413,BT15,73,5,1954.0,0,0,aucune,en ligne,chine,1795.0,1,9770.0
+CT80131,BT20,21,3,1472.0,1,0,aucune,en ligne,france,1057.0,1,4416.0
+CT80039,BT20,56,2,1461.0,0,1,aucune,mixte,usa,1572.0,0,2922.0
+CT80434,BT22,4,3,1120.0,0,0,aucune,en ligne,eau,1138.0,0,3360.0
+CT80215,BT15,52,2,1303.0,1,0,argent,en ligne,france,1341.0,0,2606.0
+CT80555,BT30,31,1,290.0,3,0,aucune,en ligne,chine,729.0,0,290.0
+CT80566,BT18,1,3,1948.0,0,0,or,boutique,france,2388.0,0,5844.0
+CT80474,BT30,68,1,1710.0,0,0,argent,boutique,france,1423.0,0,1710.0
+CT80456,BT10,61,4,1707.0,0,0,argent,en ligne,usa,1098.0,1,6828.0
+CT80260,BT13,38,3,2754.0,0,0,argent,boutique,eau,1561.0,1,8262.0
+CT80309,BT22,16,5,8119.0,1,0,aucune,en ligne,italie,4493.0,0,40595.0
+CT80276,BT18,12,4,3073.0,0,0,argent,boutique,chine,2187.0,0,12292.0
+CT80636,BT28,7,12,6837.0,2,2,aucune,boutique,suisse,4129.0,0,82044.0
+CT80654,BT11,14,2,2693.0,1,1,aucune,boutique,eau,2226.0,0,5386.0
+CT80393,BT12,20,9,2528.0,3,1,aucune,boutique,france,1594.0,1,22752.0
+CT80107,BT26,15,8,9551.0,0,0,or,boutique,chine,6425.0,1,76408.0
+CT80524,BT23,12,2,1002.0,0,1,argent,en ligne,corée,1294.0,0,2004.0
+CT80203,BT14,56,3,1311.0,1,0,aucune,en ligne,france,1143.0,1,3933.0
+CT80631,BT31,20,2,3141.0,1,1,or,mixte,france,3166.0,1,6282.0
+CT80021,BT24,31,4,1992.0,0,0,argent,boutique,usa,896.0,1,7968.0
+CT80402,BT24,10,2,1426.0,1,0,or,boutique,usa,2140.0,1,2852.0
+CT80083,BT22,25,2,3305.0,0,0,argent,boutique,chine,2373.0,1,6610.0
+CT80130,BT27,27,3,1799.0,1,1,aucune,boutique,france,1372.0,0,5397.0
+CT80415,BT26,9,6,1994.0,1,0,argent,boutique,france,1753.0,0,11964.0
+CT80697,BT14,58,4,2024.0,1,1,argent,mixte,chine,2070.0,0,8096.0
+CT80286,BT11,6,3,783.0,0,0,aucune,mixte,france,978.0,0,2349.0
+CT80123,BT17,66,5,1556.0,1,0,or,boutique,france,2137.0,1,7780.0
+CT80033,BT12,62,4,1737.0,0,0,aucune,boutique,france,1286.0,1,6948.0
+CT80516,BT22,55,4,1995.0,0,1,argent,boutique,usa,1218.0,1,7980.0
+CT80219,BT28,41,6,2168.0,0,0,or,boutique,italie,2566.0,1,13008.0
+CT80481,BT23,6,15,5863.0,0,1,argent,boutique,usa,3086.0,1,87945.0
+CT80356,BT15,5,2,2194.0,0,0,aucune,boutique,france,1597.0,0,4388.0
+CT80661,BT26,42,3,3075.0,0,0,or,boutique,usa,3067.0,0,9225.0
+CT80092,BT32,69,3,1633.0,1,0,aucune,mixte,chine,1529.0,0,4899.0
+CT80151,BT19,12,2,1368.0,1,0,argent,boutique,chine,1388.0,0,2736.0
+CT80317,BT33,11,3,1768.0,0,0,aucune,en ligne,italie,1756.0,0,5304.0
+CT80522,BT24,84,6,1080.0,1,2,aucune,mixte,usa,1009.0,1,6480.0
+CT80279,BT27,69,2,2350.0,0,0,argent,mixte,france,1925.0,0,4700.0
+CT80583,BT13,83,6,1676.0,0,3,argent,boutique,suisse,1338.0,0,10056.0
+CT80604,BT31,25,10,2263.0,2,0,aucune,boutique,chine,1192.0,0,22630.0
+CT80349,BT23,1,1,2282.0,1,0,argent,boutique,suisse,1286.0,0,2282.0
+CT80400,BT16,22,1,4028.0,0,0,aucune,en ligne,usa,2786.0,0,4028.0
+CT80257,BT14,5,1,1707.0,0,1,argent,boutique,usa,1349.0,1,1707.0
+CT80072,BT25,3,2,290.0,1,0,argent,boutique,usa,528.0,0,580.0
+CT80195,BT16,4,1,3719.0,0,0,aucune,boutique,usa,2181.0,1,3719.0
+CT80483,BT11,16,1,3604.0,0,0,aucune,boutique,france,2118.0,0,3604.0
+CT80137,BT33,11,5,893.0,1,1,aucune,boutique,eau,769.0,1,4465.0
+CT80494,BT12,14,11,9597.0,0,0,aucune,boutique,usa,6038.0,0,105567.0
+CT80550,BT10,55,1,2253.0,0,0,argent,en ligne,france,2433.0,0,2253.0
+CT80462,BT33,49,3,2320.0,1,0,argent,mixte,chine,1829.0,0,6960.0
+CT80201,BT33,7,2,4798.0,0,1,aucune,boutique,corée,2994.0,0,9596.0
+CT80312,BT29,10,3,6451.0,0,1,or,boutique,usa,5172.0,1,19353.0
+CT80290,BT14,23,2,2104.0,0,0,argent,boutique,corée,1502.0,0,4208.0
+CT80112,BT28,56,1,1580.0,0,0,argent,boutique,corée,792.0,0,1580.0
+CT80183,BT23,97,3,1225.0,0,3,aucune,mixte,france,1097.0,1,3675.0
+CT80152,BT23,6,2,2527.0,0,0,aucune,boutique,eau,1745.0,0,5054.0
+CT80325,BT20,7,2,1881.0,0,1,or,mixte,chine,2274.0,0,3762.0
+CT80044,BT25,12,1,2126.0,1,1,aucune,mixte,corée,1593.0,0,2126.0
+CT80444,BT18,48,3,976.0,0,0,aucune,boutique,corée,1552.0,0,2928.0
+CT80006,BT32,12,1,3433.0,1,0,argent,mixte,suisse,1282.0,0,3433.0
+CT80250,BT10,13,3,1909.0,0,0,argent,boutique,eau,799.0,0,5727.0
+CT80075,BT27,92,1,928.0,0,2,argent,boutique,eau,972.0,0,928.0
+CT80391,BT32,56,1,2385.0,1,0,,boutique,italie,1780.0,1,2385.0
+CT80432,BT17,5,1,1881.0,0,1,argent,boutique,corée,1467.0,1,1881.0
+CT80068,BT26,5,1,2037.0,1,2,aucune,boutique,usa,1403.0,0,2037.0
+CT80167,BT10,1,1,3085.0,0,0,aucune,boutique,corée,2729.0,1,3085.0
+CT80554,BT11,70,5,1920.0,0,0,aucune,boutique,italie,1554.0,1,9600.0
+CT80366,BT17,23,4,1743.0,0,0,argent,boutique,france,1714.0,0,6972.0
+CT80345,BT11,26,10,7242.0,0,1,aucune,mixte,chine,4718.0,1,72420.0
+CT80584,BT11,1,7,9625.0,2,0,argent,mixte,france,5366.0,1,67375.0
+CT80535,BT16,18,2,1726.0,0,0,aucune,boutique,chine,1500.0,1,3452.0
+CT80398,BT15,37,1,2173.0,0,1,argent,boutique,france,2098.0,0,2173.0
+CT80185,BT18,30,3,1657.0,0,0,aucune,boutique,france,923.0,1,4971.0
+CT80348,BT18,10,1,2914.0,0,0,aucune,boutique,chine,1472.0,1,2914.0
+CT80615,BT13,15,1,2216.0,0,0,argent,en ligne,chine,1358.0,1,2216.0
+CT80211,BT23,78,7,338.0,2,0,argent,en ligne,chine,448.0,1,2366.0
+CT80502,BT32,48,2,1700.0,0,0,aucune,mixte,chine,1468.0,1,3400.0
+CT80537,BT32,16,1,2037.0,1,0,aucune,en ligne,chine,1716.0,0,2037.0
+CT80196,BT33,56,3,2104.0,0,0,argent,en ligne,eau,995.0,1,6312.0
+CT80175,BT24,22,3,1412.0,0,0,argent,boutique,italie,1373.0,1,4236.0

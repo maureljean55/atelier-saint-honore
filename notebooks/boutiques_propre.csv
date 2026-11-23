@@ -1,0 +1,25 @@
+boutique_id,ville,surface_m2,vendeurs,ouverte_depuis_mois
+BT10,dubaï,519,22,128
+BT11,shanghai,186,4,254
+BT12,cannes,288,9,167
+BT13,shanghai,373,25,122
+BT14,genève,511,20,126
+BT15,séoul,483,8,236
+BT16,paris,139,21,266
+BT17,paris,251,25,177
+BT18,cannes,259,8,141
+BT19,dubaï,458,7,90
+BT20,bordeaux,152,22,237
+BT21,new york,222,24,92
+BT22,séoul,207,21,241
+BT23,cannes,156,18,201
+BT24,cannes,329,15,240
+BT25,londres,284,13,136
+BT26,bordeaux,302,13,116
+BT27,dubaï,519,12,209
+BT28,cannes,267,14,182
+BT29,séoul,297,6,60
+BT30,cannes,375,13,203
+BT31,dubaï,108,17,73
+BT32,dubaï,124,19,165
+BT33,cannes,230,11,292
